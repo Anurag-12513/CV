@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Anurag perosnal site</title>
+  </head>
+  <body>
+ <h1>Anurag Shandilya</h1>
+ <hr size ="3"  unshaded>
+ <a href="contact.html">Contact me</a>
+ <!--
+ <ul>
+   <li><a href="anuragshandilya1122@gmail.com">Email</a></li>
+
+        <li><a href="6299576460">Mobile N0</a></li>
+         <li><a href="https://www.linkedin.com/in/anurag-shandilya-8718031b1/">linkedin</a></li>
+
+ </ul>
+-->
+
+      <h2>EDUCATION</h2>
+       <ul>
+         <li><h3>B.Tech</h3></li>
+         </ul>
+      <h4>Techno Indai univesity, west bengal</h4>
+      <i>07/2019 - 07/2023</i>
+
+            <h2><strong>courses</strong></h2>
+      <h4>Mechanical engineering</h4>
+
+      <b><h3>Higher Secondary School</h3></b>
+      <h4>K.M Academy, Asarganj, Munger, Bihar</h4>
+      <i>2016-2018</i>
+
+     <h2>Secondary School</h2>
+     <h4>D.A.A High School , Shambhuganj, Banka</h4>
+      <i>2014 - 2016</i>
+
+       <h1>WORK ECPERIENCE</h1>
+       <b><h2>Teaching assistant</h2></b>
+      <ul>
+        <li>Vivarta-Technical Club of TIU</li>
+        </ul>
+              <i>01/2021-present</i>
+
+       <h3>Achievements/Tasks</h3>
+      <ul>
+       <li><h4>Taught 50-60 students c++ and dsa</h4></li>
+      </ul>
+
+   <b><h2>Technical skill<//h2></b>
+<h3>c++, java, html, node-js, data stracture, algorithm, CSS, opps, php ,Git and Git-hub</h3>
+
+<b><h2>PERSONAL PROJECTS</h2></b>
+<ul>
+<li><h3> Weather App</h3></li>
+</ul>
+
+<h4>Weather App
+This app tells you the weather condition of different locations.</h4>
+
+<h4>Technologies used: HTML, CSS, Javascript, open weather api</h4>
+<ul>
+  <li><h3>To-do list</h3></li>
+</ul>
+
+        <h4>A simple to-do app which helps you to schedule you tasks</h4>
+        <h4>Technologies used: HTML, CSS, Javascript</h4>
+<b><h2>ORGANIZATIONS</h2></b>
+<ul>
+  <li><h3>Vivarta(Tech-fest)(12/2019-present)</h3></li>
+</ul>
+       <i>Organizing member</i>
+       <ul>
+         <li><h3>Rudra(Sports-fest)(10/2019-present)</h3></li>
+       </ul>
+
+<i>Organizing member</i>
+<br>
+<b><h2>LANGUAGES</h2></b>
+<ul>
+  <li>Hindi (full Professional Proficiency)</li>
+  <li>English (full Professional Proficiency)</li>
+</ul>
+
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>my contact</title>
+  </head>
+  <body>
+    <ul>
+      <li><a href="anuragshandilya1122@gmail.com">Email</a></li>
+
+           <li><a href="6299576460">Mobile N0</a></li>
+            <li><a href="https://www.linkedin.com/in/anurag-shandilya-8718031b1/">linkedin</a></li>
+
+    </ul>
+  </body>
+</html>
